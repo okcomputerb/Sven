@@ -1,6 +1,6 @@
 1. A screenshot of the console output immediately after deploying smart contract.
 
-![console output](deploy_contract.png)
+![console output](deploy_screenshot.png)
 
 2. The address of the ERC20 Proxy Contract you deployed (in text format).
 
